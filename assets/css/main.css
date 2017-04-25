@@ -1528,11 +1528,11 @@ input[type="submit"].special.color4, input[type="reset"].special.color4, input[t
 }
 
 input[type="submit"].special:hover, input[type="reset"].special:hover, input[type="button"].special:hover, button.special:hover, .button.special:hover {
-  background-color: #ffe4b4;
+  background-color: transparent;
 }
 
 input[type="submit"].special:active, input[type="reset"].special:active, input[type="button"].special:active, button.special:active, .button.special:active {
-  background-color: #fdd997;
+  background-color: transparent;
 }
 
 input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"].disabled, input[type="reset"]:disabled, input[type="button"].disabled, input[type="button"]:disabled, button.disabled, button:disabled, .button.disabled, .button:disabled {
